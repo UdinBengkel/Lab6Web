@@ -9,6 +9,8 @@
 
 CSS framework adalah kumpulan kode CSS yang sudah jadi dan dirancang untuk mempermudah serta mempercepat proses pembuatan tampilan (layout) pada sebuah website. Dengan menggunakan framework ini, pengembang web tidak perlu menulis semua kode CSS dari nol, karena di dalamnya sudah tersedia berbagai komponen siap pakai seperti grid system, tombol, form, navigasi, dan elemen antarmuka lainnya.
 <details>
+  <summary>▶ Klik untuk tampilkan kode HTML</summary>
+ 
  <!DOCTYPE html>
 <html lang="id">
   <head>
@@ -25,7 +27,6 @@ CSS framework adalah kumpulan kode CSS yang sudah jadi dan dirancang untuk mempe
     <div class="container mt-3">
       <h3 class="fw-bold text-secondary">Layout Sederhana</h3>
     </div>
-
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
       <div class="container">
         <div class="collapse navbar-collapse">
@@ -40,7 +41,6 @@ CSS framework adalah kumpulan kode CSS yang sudah jadi dan dirancang untuk mempe
         </div>
       </div>
     </nav>
-
     <div class="bg-light p-5 mb-4 border-bottom">
       <div class="container">
         <h1 class="fw-bold">Hello World!</h1>
@@ -53,7 +53,6 @@ CSS framework adalah kumpulan kode CSS yang sudah jadi dan dirancang untuk mempe
         <a href="#" class="btn btn-primary">Learn more »</a>
       </div>
     </div>
-
     <div class="container mb-5">
       <div class="row">
         <div class="col-md-9">
@@ -116,9 +115,7 @@ CSS framework adalah kumpulan kode CSS yang sudah jadi dan dirancang untuk mempe
               <button class="btn btn-secondary btn-sm">View detail</button>
             </div>
           </div>
-
           <hr />
-
           <div class="row mb-4 align-items-center">
             <div class="col-md-3">
               <div
@@ -138,7 +135,6 @@ CSS framework adalah kumpulan kode CSS yang sudah jadi dan dirancang untuk mempe
               </p>
             </div>
           </div>
-
           <div class="row mb-4 align-items-center">
             <div class="col-md-9">
               <h5 class="fw-bold">First featurette heading.</h5>
@@ -159,7 +155,6 @@ CSS framework adalah kumpulan kode CSS yang sudah jadi dan dirancang untuk mempe
             </div>
           </div>
         </div>
-
         <div class="col-md-3">
           <div class="mb-4">
             <h5 class="bg-primary text-white p-2">Widget Header</h5>
@@ -193,11 +188,9 @@ CSS framework adalah kumpulan kode CSS yang sudah jadi dan dirancang untuk mempe
         </div>
       </div>
     </div>
-
     <footer class="bg-dark text-white text-center py-3">
       © 2021 - Universitas Pelita Bangsa
     </footer>
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
   </body>
 </html>
