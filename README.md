@@ -196,3 +196,5 @@ CSS framework adalah kumpulan kode CSS yang sudah jadi dan dirancang untuk mempe
 </html>
 ```
 </details>
+
+<img src="gambar/1.png" width="500"/>
