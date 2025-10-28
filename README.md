@@ -9,8 +9,7 @@
 
 CSS framework adalah kumpulan kode CSS yang sudah jadi dan dirancang untuk mempermudah serta mempercepat proses pembuatan tampilan (layout) pada sebuah website. Dengan menggunakan framework ini, pengembang web tidak perlu menulis semua kode CSS dari nol, karena di dalamnya sudah tersedia berbagai komponen siap pakai seperti grid system, tombol, form, navigasi, dan elemen antarmuka lainnya.
 <details>
- ```html
-  <!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="id">
   <head>
     <meta charset="UTF-8" />
@@ -202,6 +201,4 @@ CSS framework adalah kumpulan kode CSS yang sudah jadi dan dirancang untuk mempe
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
   </body>
 </html>
-
-  ```
 </details>
